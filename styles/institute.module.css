@@ -1,0 +1,24 @@
+.institute_cont{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 100px;
+}
+
+.cont_wrapper{
+    width: 95%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 800px) {
+
+    .cont_wrapper{
+        width: 100%;
+    }
+
+}

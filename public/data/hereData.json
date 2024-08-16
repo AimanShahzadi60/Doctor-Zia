@@ -1,0 +1,28 @@
+[
+    {
+      "heading": "Empowering Families Through Islamic Guidance and Support",
+      "paragraph": "This is a short description for slide 1.",
+      "imageUrl": "https://example.com/image1.jpg"
+    },
+    {
+      "heading": "Slide 2 Title",
+      "paragraph": "This is a short description for slide 2.",
+      "imageUrl": "https://example.com/image2.jpg"
+    },
+    {
+      "heading": "Slide 3 Title",
+      "paragraph": "This is a short description for slide 3.",
+      "imageUrl": "https://example.com/image3.jpg"
+    },
+    {
+        "heading": "Slide 2 Title",
+        "paragraph": "This is a short description for slide 2.",
+        "imageUrl": "https://example.com/image2.jpg"
+      },
+      {
+        "heading": "Slide 3 Title",
+        "paragraph": "This is a short description for slide 3.",
+        "imageUrl": "https://example.com/image3.jpg"
+      }
+  ]
+  

@@ -1,0 +1,59 @@
+.services_cont{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.service_section{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.per_service{
+    width: 40%;
+    padding: 20px;
+    background-color: white;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid orange;
+    border-radius: 4px;
+}
+
+.per_service h2{
+    text-transform: uppercase;
+    font-size: 28px;
+    line-height: 2.5;
+}
+
+.per_service p{
+    text-align: center;
+}
+
+.bold{
+font-style:oblique;
+color: var(--orange);
+}
+
+@media (max-width: 800px) {
+
+    .service_section{
+        flex-direction: column;
+    }
+
+    .per_service{
+        width: 85%;
+    }
+
+    .per_service h2{
+        font-size: 24px;
+        text-align: center;
+    }
+
+}

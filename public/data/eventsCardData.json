@@ -1,0 +1,47 @@
+[
+    {
+      "Imageurl": "/images/marriage-service.webp",
+      "heading": "Marriage Services",
+      "date": "12",
+      "month": "June",
+      "paragraph": "In Islam, marriage is viewed as both a social agreement and a legal contract. Today, the marriage contract is typically signed in the presence of an Islamic judge or an Imam who is knowledgeable about Islamic law.",
+      "buttonText": "Learn More",
+      "url": "/institutes",
+      "availability_time": "available 24/7",
+      "location":" "
+    },
+    {
+      "Imageurl": "/images/family-councelling.jpg",
+      "heading": "Family Counselling",
+      "date": "12",
+      "month": "June",
+      "paragraph": "Building a successful family can be challenging. The Zia's clergy team provides counseling for children, teens, adults, couples, and seniors. Let us support you in creating a strong, loving family based on Islamic principles.",
+      "buttonText": "Learn More",
+      "url": "/institutes",
+      "availability_time": "available 24/7",
+      "location":" "
+    },
+    {
+      "Imageurl": "/images/divorce.jpg",
+      "heading": "Divorce in Islam",
+      "date": "12",
+      "month": "June",
+      "paragraph": "Our clergy can help with counseling and completing the divorce process according to Islamic requirements and Alberta laws. We also develop personalized divorce contracts. It's important for both parties to understand the process and be guided by Islamic teachings.",
+      "buttonText": "Learn More",
+      "url": "/institutes",
+      "availability_time": "available 24/7",
+      "location":" "
+    },
+    {
+      "Imageurl": "/images/islamic-will.jpg",
+      "heading": "Islamic Wills",
+      "date": "12",
+      "month": "June",
+      "paragraph": "'It is not permissible for any Muslim who has something to will, to stay for two nights without having his last will and testament written and kept ready with him.' – Sahih Bukhari. Al Rashid aids people to fulfill this responsibility and ensures one understands the process thoroughly",
+      "buttonText": "Learn More",
+      "url": "/institutes",
+      "availability_time": "available 24/7",
+      "location":" "
+    }
+  ]
+  

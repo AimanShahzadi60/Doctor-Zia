@@ -1,0 +1,26 @@
+[
+  {
+    "Imageurl": "/images/islam.jpg",
+    "heading": "What Is Islam?",
+    "title": "إِنَّ الدِّينَ عِندَ اللَّهِ الْإِسْلَامُ",
+    "paragraph": "'Indeed, the religion in the sight of Allah is Islam.' (Qur'an 3:19)",
+    "buttonText": "Read More",
+    "url": "/blogs/what-is-islam"
+  },
+  {
+    "Imageurl": "/images/madina.jpg",
+    "heading": "Who is Muhammad (P.B.U.H)?",
+    "title": "وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِّلْعَالَمِينَ",
+    "paragraph": "'And We have not sent you, [O Muhammad], except as a mercy to the worlds.' (Qur'an 21:107)",
+    "buttonText": "Read More",
+    "url": "/blogs/who-is-muhammad(P.B.U.H)"
+  },
+  {
+    "Imageurl": "/images/life.jpg",
+    "heading": "What is the purpose of life?",
+    "title": "وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ",
+    "paragraph": "'And I did not create the jinn and mankind except to worship Me.' (Qur'an 51:56)",
+    "buttonText": "Read More",
+    "url": "/blogs/what-is-the-purpose-of-life"
+  }
+]

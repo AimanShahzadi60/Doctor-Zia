@@ -1,0 +1,144 @@
+.hero {
+    height: 100vh;
+    background: url('/images/bg.png') no-repeat center center/cover;
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center; */
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 100px;
+  }
+  
+/* heroSection.module.css */
+
+.slide {
+  display: flex !important; 
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  height: 75vh;
+  width: 100% !important;
+}
+
+.slide_inner{
+  width: 80%;
+  display: flex; 
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.content {
+  padding: 20px;
+  /* background: rgba(0, 0, 0, 0.5); */
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  margin-right: 20px;
+}
+
+.title {
+  font-size: 32px;
+  margin-bottom: 10px;
+  color: var(--sec-heading-color);
+  text-align: start;
+  /* text-shadow: 0 0 3px rgb(255, 142, 4); */
+  /* width: 70%; */
+  line-height: 1.3;
+}
+
+.h4{
+  font-weight: 600;
+  color: var(--text);
+}
+
+.subtitle {
+  font-size: 16px;
+  color: black;
+  margin-bottom: 20px;
+  width: 70%;
+  text-align: start;
+  line-height: 1.6;
+}
+
+.image_cont{
+  width: 80%;
+}
+
+.image {
+  width: 440px;
+  height: 300px;
+  max-height: 400px;
+  object-fit: cover;
+}
+
+.growth_cont{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.growthing{
+  width: 150px;
+  height: 100px;
+  padding: 10px;
+  background: var(--gradient-color);
+  margin-right: 20px;
+}
+
+.growthing h4{
+  font-size: 22px;
+  font-weight: bold;
+  color: white;
+}
+
+.growthing p{
+  font-size: 13px;
+  line-height: 1.2;
+  font-weight: 600;
+  color: black;
+}
+
+@media (max-width: 1024px) {
+.title{
+  font-size: 25px;
+}
+
+.growth_cont{
+  display: none;
+}
+
+}
+
+@media (max-width: 800px) {
+
+  .slide_inner{
+    flex-direction: column-reverse;
+    width: 100%;
+  }
+
+  .content{
+    width: 85%;
+  }
+
+  .image{
+    width: 100% !important;
+  }
+
+  .growth_cont{
+    display: none;
+  }
+
+}
