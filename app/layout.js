@@ -6,8 +6,8 @@ import Footer from "@/components/pageLayout/footer"
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Zia Foundation',
-  description: 'Give an Iconic touch to your Living Area',
+  title: 'Zia Foundation: Empowering Communities Through Islamic Education and Social Welfare',
+  description: "Explore Zia Foundation's commitment to advancing Islamic education, supporting families, and promoting community welfare. Discover our initiatives and programs dedicated to fostering faith, knowledge, and compassion.",
 }
 
 export default function RootLayout({ children }) {
