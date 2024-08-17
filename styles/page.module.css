@@ -316,4 +316,25 @@ width: 94%;
     text-align: start;
   }
 
+  .blog_container img{
+    width: 100%;
+    height: auto;
+  }
+
+  .blog_container{
+    width: 90%;
+  }
+
+  .certificate_cont h2{
+    font-size: 24px;
+    text-align: center;
+    padding-left:10px ;
+    padding-right: 10px;
+  }
+
+  .cer_main_cont img{
+    width: 100%;
+    height: auto;
+  }
+
 }
