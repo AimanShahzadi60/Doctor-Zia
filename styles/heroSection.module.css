@@ -140,5 +140,9 @@
   .growth_cont{
     display: none;
   }
+  
+  .title{
+    font-size: 20px;
+  }
 
 }

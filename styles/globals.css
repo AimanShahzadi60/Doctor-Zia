@@ -234,7 +234,7 @@ width: 100%;
 }
 
 .list-items:hover{
-  color: var(--primary);
+  color: var(--sec-heading-color);
 }
 
 .nav-menu.active a {
@@ -454,6 +454,11 @@ align-items: center;
  .urls-part{
   width: 100%;
   margin-top: 32px;
+ }
+
+ .logo img{
+  width: 150px;
+  height: auto;
  }
 
 }
