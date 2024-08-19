@@ -45,7 +45,7 @@ export default function Home() {
         <div className={styles.vision}>
           <div className={styles.titles}>
             <div>
-            <Image src={"/images/prayer.png"} alt="" width={50} height={50}/>
+            <Image src={"/images/prayer.png"} alt="Praying" width={50} height={50}/>
             </div>
           <h2>Vision</h2>
           </div>
@@ -64,7 +64,7 @@ export default function Home() {
         <div className={styles.mission}>
         <div className={styles.titles}>
             <div>
-            <Image src={"/images/islamic.png"} alt="" width={50} height={50}/>
+            <Image src={"/images/islamic.png"} alt="Islamic" width={50} height={50}/>
             </div>
           <h2>Mission</h2>
           </div>

@@ -55,13 +55,13 @@ const Footer = () => {
               <a href="/certificate">certificates</a>
             </li>
             <li>
-              <a href="#blogs">Blogs</a>
+              <a href="/#blogs">Blogs</a>
             </li>
             <li>
-              <a href="#services">Services</a>
+              <a href="/#services">Services</a>
             </li>
             <li>
-              <a href="#about-us">About Us</a>
+              <a href="/#about-us">About Us</a>
             </li>
           </ul>
         </div>
@@ -77,7 +77,7 @@ const Footer = () => {
           You can contact us about any query related to ISLAM and our services. We are always here for you.
           </p>
           <br/>
-          <a href="#contact-us">
+          <a href="/#contact-us">
           <button className="secondarybtn">Stay With Us</button>
           </a>
         </div>

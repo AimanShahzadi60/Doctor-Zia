@@ -80,7 +80,7 @@ const Navbar = () => {
         </div>
 
         <div className='donation-btn'>
-        <a href="#contact-us">
+        <a href="/#contact-us">
           <button className='secondarybtn'>Stay with Us</button>
           </a>
         </div>

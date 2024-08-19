@@ -23,12 +23,12 @@ const InstituteCard = ({image, heading, title, paragraph, buttonText, url }) => 
   return (
     <div className={styles.card}>
       <div className={styles.img_cont}>
-        <Image src={image} alt='' width={350} height={400} className={styles.image} />
+        <Image src={image} alt='Component-Image' width={350} height={400} className={styles.image} />
         </div>
     <div className={styles.card_wrapper}> 
     <div className={styles.card_data}>
     <div className={styles.icon_cont}>
-        <Image src={'/images/open-book.png'} alt='' width={50} height={50}/>
+        <Image src={'/images/open-book.png'} alt='Book' width={50} height={50}/>
         </div>
       <h3>{heading}</h3>
       <div className={styles.content}>
