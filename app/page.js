@@ -33,7 +33,6 @@ export default function Home() {
         <div className={styles.abt_cont1}>
           <ImageSection
             image1={{ src: "/images/about1.jpg" }}
-            // image2={{ src: "/images/authenticity.jpg" }}
           />
         </div>
         <div className={styles.abt_cont1}>
