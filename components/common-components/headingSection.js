@@ -7,7 +7,7 @@ const HeadingSection = ({ heading, title, paragraph, title2 }) => {
     <div className={styles.heading_section}>
       <h4>{heading}</h4>
       <h2>{title}<br/><b className={styles.red_color_bold}>{title2}</b></h2>
-      <Image src={'/images/underline.png'} width={200} height={40} alt='Underline'/>
+      <img src={'/images/underline.png'} width={200} height={40} alt='Underline'/>
       <p>{paragraph}</p> 
     </div>
   );

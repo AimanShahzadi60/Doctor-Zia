@@ -27,7 +27,7 @@ const EventsCard = ({ image, heading, paragraph, buttonText, url, availability_t
   return (
     <div className={styles.event_card}>
       <div className={styles.img_cont}>
-        <Image src={image} alt='icon' width={350} height={250} className={styles.image} />
+        <img src={image} alt='icon' width={350} height={250} className={styles.image} />
       </div>
       <div className={styles.available_time}>{availability_time}</div>
       <div className={styles.card_wrapper}>

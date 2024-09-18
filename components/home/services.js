@@ -1,6 +1,5 @@
 import React from "react";
 import HeadingSection from "../common-components/headingSection";
-import Image from "next/image";
 import styles from "@/styles/services.module.css";
 import stylescommon from "@/styles/common.module.css";
 
@@ -12,7 +11,7 @@ const Services = () => {
       </div>
       <div className={styles.service_section}>
         <div className={styles.per_service}>
-          <Image
+          <img
             src={"/images/quran-1.png"}
             alt="Quran teaching"
             width={120}
@@ -40,7 +39,7 @@ const Services = () => {
         </div>
 
         <div className={styles.per_service}>
-          <Image
+        <img
             src={"/images/mosque.png"}
             alt="Building Mosque"
             width={120}
@@ -66,7 +65,7 @@ const Services = () => {
         </div>
 
         <div className={styles.per_service}>
-          <Image
+        <img
             src={"/images/gravestone.png"}
             alt="FUNERAL Service"
             width={120}
@@ -93,7 +92,7 @@ const Services = () => {
         </div>
 
         <div className={styles.per_service}>
-          <Image
+        <img
             src={"/images/poverty.png"}
             alt="help poor"
             width={120}

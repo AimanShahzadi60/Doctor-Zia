@@ -31,7 +31,7 @@ const Islam = () => {
           that aligns with Allah's commands and principles.
         </p>
 
-       <Image src={'/images/worship-Allah.png'} alt="Worship Allah" width={600} height={400}/>
+       <img src={'/images/worship-Allah.png'} alt="Worship Allah" width={600} height={400}/>
 
         <h3>Following Divine Guidance</h3>
         <p>
@@ -74,7 +74,7 @@ const Islam = () => {
           </b>
         </p>
 
-        <Image src={'/images/serving-others.jpg'} alt="Worship Allah" width={800} height={450}/>
+        <img src={'/images/serving-others.jpg'} alt="Worship Allah" width={800} height={450}/>
 
         <h3>Preparation for the Afterlife</h3>
         <p>

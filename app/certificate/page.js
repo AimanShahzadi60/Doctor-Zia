@@ -1,5 +1,5 @@
 import React from 'react'
-import Image from 'next/image'
+// import Image from 'next/image'
 import styles from "@/styles/page.module.css"
 
 const Certificate = () => {
@@ -10,7 +10,7 @@ const Certificate = () => {
         </div>
 
         <div>
-          <Image src={'/images/certificate.jpg'} alt='Zia Certificate' width={800} height={900}/>
+          <img src={'/images/certificate.jpg'} alt='Zia Certificate' width={800} height={900}/>
         </div>
     </div>
   )

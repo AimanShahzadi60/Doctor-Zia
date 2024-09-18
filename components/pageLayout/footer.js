@@ -9,7 +9,7 @@ const Footer = () => {
       <section className="Footer-upper-part">
         <div className="logo-part">
         <Link href="/" legacyBehavior>
-          <a className="logo"><Image src={'/images/logo1.png'} alt='zia foundation' width={300} height={100}/></a>
+          <a className="logo"><img src={'/images/logo1.png'} alt='zia foundation' width={300} height={100}/></a>
         </Link>
           <br/>
           <p className="f-para">

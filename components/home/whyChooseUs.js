@@ -19,7 +19,7 @@ const WhyChooseUs = () => {
      <div className={styles.choosing_cards}>
      <div className={styles.choose1}>
         <div className={styles.choose_icon_1}>
-        <Image src={'/images/online-learning.png'} alt='Online-Learning' width={50} height={50}/>
+        <img src={'/images/online-learning.png'} alt='Online-Learning' width={50} height={50}/>
         </div>
         <h3>
         Tailored Educational Solutions
@@ -31,7 +31,7 @@ const WhyChooseUs = () => {
 
      <div  className={styles.choose1}>
         <div className={styles.choose_icon_1}>
-        <Image src={'/images/biometric.png'} alt='Biometric' width={50} height={50}/>
+        <img src={'/images/biometric.png'} alt='Biometric' width={50} height={50}/>
         </div>
         <h3>
         Community-Centric Initiatives
@@ -43,7 +43,7 @@ const WhyChooseUs = () => {
 
      <div  className={styles.choose1}>
         <div className={styles.choose_icon_1}>
-        <Image src={'/images/search.png'} alt='Searching' width={50} height={50}/>
+        <img src={'/images/search.png'} alt='Searching' width={50} height={50}/>
         </div>
         <h3>
         Research-Backed Interventions

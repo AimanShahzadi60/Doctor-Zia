@@ -14,15 +14,15 @@ const AboutUsDescription = () => {
         paragraph={"Dr. Muhammad Arshad Zia, a distinguished scholar with a PhD in Islamic Thought and Civilization, has dedicated his life to advancing Islamic education and fostering understanding of Islamic principles and cultural heritage."}
         />
         <div className={styles.points}>
-        <Image src={'/images/check.png'} alt="Tick" width={30} height={30}/>
+        <img src={'/images/check.png'} alt="Tick" width={30} height={30}/>
           <h5>Empowerment Focus</h5>
         </div>
         <div className={styles.points}>
-        <Image src={'/images/check.png'} alt="Tick " width={30} height={30}/>
+        <img src={'/images/check.png'} alt="Tick " width={30} height={30}/>
           <h5>Rural Commitment</h5>
         </div>
         <div className={styles.points}>
-        <Image src={'/images/check.png'} alt="Tick " width={30} height={30}/>
+        <img src={'/images/check.png'} alt="Tick " width={30} height={30}/>
           <h5>Future Leaders</h5>
         </div>
       </div>

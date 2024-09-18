@@ -16,13 +16,13 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className='contact_detail'>
-      <a href="tel: 004740849614"> <Image src={"/images/call.png"} alt='Call us' width={20} height={20} className='imggg'/>  </a>
+      <a href="tel: 004740849614"> <img src={"/images/call.png"} alt='Call us' width={20} height={20} className='imggg'/>  </a>
         <p>
         <a href="tel: 004740849614">
           Call Us: +91 80920 29002
           </a>
         </p>
-        <a  href="mailto: dr.zia@alrushed.com">    <Image src={"/images/email.png"} alt='Call us' width={25} height={25} className='imggg'/>  </a>
+        <a  href="mailto: dr.zia@alrushed.com">    <img src={"/images/email.png"} alt='Call us' width={25} height={25} className='imggg'/>  </a>
         <p>
           <a  href="mailto: dr.zia@alrushed.com">
        Send Us Email: dr.zia@alrushed.com
@@ -32,7 +32,7 @@ const Navbar = () => {
       <div className="container">
         <div className='logo-container'>
         <Link href="/" legacyBehavior>
-          <a className="logo"><Image src={'/images/logo.png'} alt='zia foundation' width={200} height={80}/></a>
+          <a className="logo"><img src={'/images/logo.png'} alt='zia foundation' width={200} height={80}/></a>
         </Link>
         </div>
 
@@ -44,24 +44,24 @@ const Navbar = () => {
             </Link>
           </li>
           <li  className='list-items'>
-            <Link href="#about-us" legacyBehavior>
+            <Link href="/#about-us" legacyBehavior>
               <a onClick={() => setIsOpen(false)}>About Us</a>
             </Link>
           </li>
           <li  className='list-items'>
-            <Link href="#services" legacyBehavior>
+            <Link href="/#services" legacyBehavior>
               <a onClick={() => setIsOpen(false)}>Services</a>
             </Link>
           </li>
           <li  className='list-items'>
-            <Link href="#blogs" legacyBehavior>
+            <Link href="/#blogs" legacyBehavior>
               <a onClick={() => setIsOpen(false)}>Blogs</a>
             </Link>
           </li>
 
 
           <li  className='list-items'>
-            <Link href="#contact-us" legacyBehavior>
+            <Link href="/#contact-us" legacyBehavior>
               <a onClick={() => setIsOpen(false)}>Contact Us</a>
             </Link>
           </li>
